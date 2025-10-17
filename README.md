@@ -1,4 +1,4 @@
-# Atividade 8 - Simulador de Áudio
+# Atividade 7 - Simulador de Áudio
 
 ## 🎵 Sobre o Projeto
 
@@ -8,9 +8,8 @@ Player de música desenvolvido em Next.js para a disciplina de Multimídia.
 
 1. ✅ Botão Play/Pause com ícones dinâmicos
 2. ✅ Controle de Volume (slider 0-100%)
-3. ✅ Botão Mute/Unmute
-4. ✅ Ícones que mudam dinamicamente
-5. ✅ Componente funcional com useState
+3. ✅ Ícones que mudam dinamicamente
+4. ✅ Componente funcional com useState
 
 ## 🚀 Como Executar
 
